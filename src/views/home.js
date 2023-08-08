@@ -39,48 +39,55 @@ const Home = (props) => {
               <button className="home-primary button-primary button-lg button">
                 Get in touch with us
               </button>
-              <img
-                alt="image"
-                src="https://images.unsplash.com/photo-1691268891144-09cb1cb7eb04?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5MTMyMXwwfDF8YWxsfDE0fHx8fHx8Mnx8MTY5MTQ4NTUwOXw&amp;ixlib=rb-4.0.3&amp;q=80&amp;h=700"
-                className="home-image"
-              />
-            </div>
-            <div className="home-gallery">
               <div className="home-container1">
                 <img
+                  src="https://images.unsplash.com/photo-1691268891144-09cb1cb7eb04?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5MTMyMXwwfDF8YWxsfDE0fHx8fHx8Mnx8MTY5MTQ4NTUwOXw&amp;ixlib=rb-4.0.3&amp;q=80&amp;h=500"
                   alt="image"
-                  src="/rectangle%2095-1000w.png"
-                  className="home-image1"
+                  className="home-image"
+                />
+                <img
+                  src="https://images.unsplash.com/photo-1691437196305-b26b8b78fc01?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5MTMyMXwwfDF8YWxsfDN8fHx8fHwyfHwxNjkxNDg1NTA5fA&amp;ixlib=rb-4.0.3&amp;q=80&amp;h=400"
+                  alt="image"
+                  className="home-image01"
                 />
               </div>
+            </div>
+            <div className="home-gallery">
               <div className="home-container2">
                 <img
                   alt="image"
-                  src="/rectangle%2095%20%5B1%5D-1000w.png"
-                  className="home-image2"
-                />
-                <img
-                  alt="image"
-                  src="/rectangle%2095%20%5B2%5D-1000w.png"
-                  className="home-image3"
+                  src="/rectangle%2095-1000w.png"
+                  className="home-image02"
                 />
               </div>
               <div className="home-container3">
                 <img
                   alt="image"
-                  src="/rectangle%2095%20%5B3%5D-1000w.png"
-                  className="home-image4"
+                  src="/rectangle%2095%20%5B1%5D-1000w.png"
+                  className="home-image03"
                 />
-                <div className="home-container4">
+                <img
+                  alt="image"
+                  src="/rectangle%2095%20%5B2%5D-1000w.png"
+                  className="home-image04"
+                />
+              </div>
+              <div className="home-container4">
+                <img
+                  alt="image"
+                  src="/rectangle%2095%20%5B3%5D-1000w.png"
+                  className="home-image05"
+                />
+                <div className="home-container5">
                   <img
                     alt="image"
                     src="/rectangle%2095%20%5B4%5D-1000w.png"
-                    className="home-image5"
+                    className="home-image06"
                   />
                   <img
                     alt="image"
                     src="/rectangle%2095%20%5B5%5D-1000w.png"
-                    className="home-image6"
+                    className="home-image07"
                   />
                 </div>
               </div>
@@ -272,7 +279,7 @@ const Home = (props) => {
               <img
                 alt="image"
                 src="/rectangle%20109-1000w.png"
-                className="home-image7"
+                className="home-image08"
               />
             </div>
           </div>
@@ -294,7 +301,7 @@ const Home = (props) => {
             </h2>
             <div className="home-step">
               <span className="home-text42">01</span>
-              <div className="home-container5">
+              <div className="home-container6">
                 <span className="home-text43">Finding the best idea</span>
                 <span className="home-text44">
                   There are countless businesses already in existence, so it’s
@@ -312,7 +319,7 @@ const Home = (props) => {
             </div>
             <div className="home-step1">
               <span className="home-text45">02</span>
-              <div className="home-container6">
+              <div className="home-container7">
                 <span className="home-text46">
                   Intense Brain storming
                   <span
@@ -330,7 +337,7 @@ const Home = (props) => {
             </div>
             <div className="home-step2">
               <span className="home-text48">03</span>
-              <div className="home-container7">
+              <div className="home-container8">
                 <span className="home-text49">Strong design execution</span>
                 <span className="home-text50">
                   As a creative, using your professional judgement, you should
@@ -466,7 +473,7 @@ const Home = (props) => {
         </div>
         <div className="home-separator"></div>
         <footer className="home-max-width8 max-content-container">
-          <img alt="image" src="/logo1-200h.png" className="home-image8" />
+          <img alt="image" src="/logo1-200h.png" className="home-image09" />
           <span className="home-text83">
             <span>
               All rights recived @
